@@ -5,7 +5,7 @@ color_scheme: light
 search_enabled: true
 nav_external_links:
   - title: View on GitHub
-    url: https://github.com/fahertym/Systems-Change-Repo
+    url: https://github.com/fahertym/systems-change-repo
 just_the_docs:
   collections:
     essays:
