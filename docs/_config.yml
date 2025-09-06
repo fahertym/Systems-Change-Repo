@@ -1,0 +1,18 @@
+remote_theme: just-the-docs/just-the-docs
+title: Systems Change
+description: A public notebook of essays, notes, and resources
+color_scheme: light
+search_enabled: true
+nav_external_links:
+  - title: View on GitHub
+    url: https://github.com/fahertym/Systems-Change-Repo
+just_the_docs:
+  collections:
+    essays:
+      name: Essays
+    manifestos:
+      name: Manifestos
+    research:
+      name: Research
+plugins:
+  - jekyll-remote-theme

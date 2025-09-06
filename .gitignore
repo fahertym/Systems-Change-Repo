@@ -1,0 +1,13 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node/Python caches
+node_modules/
+__pycache__/
+
+# Large binaries (recordings kept as links/MD stubs)
+discussions/recordings/*.*
+!discussions/recordings/*.md
